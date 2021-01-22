@@ -9,4 +9,4 @@ Note that his is PoC-code and not optimized.
 Tested with *Julia 1.5.3*.
 
 Run the code on mybinder at:
-https://mybinder.org/v2/gh/gerritgr/SpatialBranchingProcess/4639329c69886738ee944cd67eb7a08b6b52f0ef
+https://mybinder.org/v2/gh/gerritgr/SpatialBranchingProcess/47a39cd9a8501c06d8278a7b18e59a73cc5af8a2
