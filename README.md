@@ -1,6 +1,8 @@
 # Spatial Branching Process Model for Epidemic Diffusion
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerritgr/SpatialBranchingProcess/HEAD?filepath=main.ipynb)
 
+![Example](https://raw.githubusercontent.com/gerritgr/SpatialBranchingProcess/master/example.gif)
+
 This is an example implementation of "Epidemic Overdispersion Strengthens the Effectiveness of Mobility Restrictions" (Großmann et al.).
 See https://www.researchgate.net/publication/348680143_Epidemic_Overdispersion_Strengthens_the_Effectiveness_of_Mobility_Restrictions for more information.
 You can simply run all the cells from top to bottom to get the results.
